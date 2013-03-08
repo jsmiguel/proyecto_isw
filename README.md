@@ -1,4 +1,4 @@
-proyecto_isw
+Proyecto de Ingeniería de Software II
 ============
 
-Sistema de notas para Centro Escolar
+Sistema de notas para Centro Escolar, desarrollado en Yii Framework
