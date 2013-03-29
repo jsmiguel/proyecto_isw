@@ -1,4 +1,4 @@
-Proyecto de Ingeniería de Software II
+Proyecto de Ingeniería de Software II - UFG 2013
 ============
 
-Sistema de notas para Centro Escolar, desarrollado en Yii Framework
+Sistema de notas desarrollado en Yii Framework
